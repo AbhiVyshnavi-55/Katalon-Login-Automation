@@ -38,6 +38,14 @@ This project automates login functionality using Katalon Studio.
 
 
 
+\## 📸 Test Execution Results
+
+
+
+!\[Execution Result](screenshots/result.png)
+
+
+
 \## Author
 
 Sri Vyshnavi Naraparaju

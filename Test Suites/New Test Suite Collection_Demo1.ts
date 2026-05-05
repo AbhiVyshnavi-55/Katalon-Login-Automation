@@ -22,10 +22,10 @@
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Edge Chromium</runConfigurationId>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/New Test Suite_Demo1</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Data Driven_Demo Suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
